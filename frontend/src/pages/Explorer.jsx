@@ -16,7 +16,7 @@ function Explorer() {
   useEffect(() => {
 
     axios
-      .get("http://localhost:5000/components")
+      .get("https://project-2-decodelabs-internship-y6ue.onrender.com/components")
 
       .then((res) => {
 
