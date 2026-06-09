@@ -1,0 +1,14 @@
+.explorer-title{
+  padding:40px 60px;
+}
+
+.explorer-title h1{
+  font-size:50px;
+}
+
+.cards-container{
+  padding:20px 60px 60px;
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:30px;
+}

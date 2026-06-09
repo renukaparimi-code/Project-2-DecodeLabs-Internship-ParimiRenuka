@@ -1,0 +1,24 @@
+.details{
+  display:flex;
+  gap:50px;
+  padding:60px;
+}
+
+.details img{
+  width:500px;
+  border-radius:20px;
+}
+
+.details-content{
+  width:50%;
+}
+
+.details-content h1{
+  font-size:60px;
+}
+
+.details-content p{
+  margin-top:20px;
+  font-size:22px;
+  color:#cbd5e1;
+}

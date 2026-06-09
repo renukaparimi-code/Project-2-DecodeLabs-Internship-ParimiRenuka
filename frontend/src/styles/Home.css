@@ -1,0 +1,41 @@
+.hero{
+  min-height:90vh;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  padding:40px 60px;
+}
+
+.hero-left{
+  width:50%;
+}
+
+.hero-left h1{
+  font-size:90px;
+  line-height:1;
+}
+
+.hero-left p{
+  margin-top:25px;
+  width:80%;
+  font-size:22px;
+  color:#cbd5e1;
+}
+
+.hero-left button{
+  margin-top:35px;
+  padding:18px 35px;
+  border-radius:12px;
+  background:linear-gradient(to right,#2563eb,#38bdf8);
+  color:white;
+  font-size:18px;
+}
+
+.hero-right{
+  width:45%;
+}
+
+.hero-right img{
+  width:100%;
+  border-radius:20px;
+}

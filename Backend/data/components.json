@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Neuron",
+    "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31",
+    "description": "Basic unit of nervous system",
+    "function": "Transfers electrical signals in the body."
+  },
+  {
+    "id": 2,
+    "name": "Brain",
+    "image": "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b",
+    "description": "Controls all body functions",
+    "function": "Main control center of the nervous system."
+  },
+  {
+    "id": 3,
+    "name": "Spinal Cord",
+    "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
+    "description": "Connects brain and body",
+    "function": "Carries messages between brain and body."
+  },
+  {
+    "id": 4,
+    "name": "Axon",
+    "image": "https://images.unsplash.com/photo-1530497610245-94d3c16cda28",
+    "description": "Long fiber of neuron",
+    "function": "Transmits electrical impulses away from the cell body."
+  },
+  {
+    "id": 5,
+    "name": "Dendrite",
+    "image": "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb",
+    "description": "Receives signals",
+    "function": "Receives electrical signals from other neurons."
+  },
+  {
+    "id": 6,
+    "name": "Synapse",
+    "image": "https://images.unsplash.com/photo-1504814532849-cff240bbc503",
+    "description": "Connection between neurons",
+    "function": "Allows communication between neurons."
+  },
+  {
+    "id": 7,
+    "name": "Cerebrum",
+    "image": "https://images.unsplash.com/photo-1518152006812-edab29b069ac",
+    "description": "Largest part of brain",
+    "function": "Controls thinking, memory and actions."
+  },
+  {
+    "id": 8,
+    "name": "Cerebellum",
+    "image": "https://images.unsplash.com/photo-1511174511562-5f7f18b874f8",
+    "description": "Controls balance",
+    "function": "Maintains posture and coordination."
+  },
+  {
+    "id": 9,
+    "name": "Medulla Oblongata",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "description": "Controls automatic functions",
+    "function": "Regulates heartbeat and breathing."
+  },
+  {
+    "id": 10,
+    "name": "Motor Neuron",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "description": "Controls muscles",
+    "function": "Sends signals from brain to muscles."
+  },
+  {
+    "id": 11,
+    "name": "Sensory Neuron",
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+    "description": "Detects stimuli",
+    "function": "Carries signals from sense organs."
+  },
+  {
+    "id": 12,
+    "name": "Interneuron",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "description": "Connects neurons",
+    "function": "Transfers signals between neurons."
+  }
+]
