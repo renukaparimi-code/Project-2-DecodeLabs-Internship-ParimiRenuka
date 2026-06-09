@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom";
 
 import axios from "axios";
 
-import Navbar from "../components/Navbar";
+import Navbar from "../components/navbar";
 
 import "../styles/Details.css";
 import Footer from "../components/Footer";
@@ -19,7 +19,7 @@ function Details() {
   useEffect(() => {
 
     axios
-      .get(`http://localhost:5000/components/${id}`)
+      .get(`https://project-2-decodelabs-internship-y6ue.onrender.com/components/${id}`)
 
       .then((res) => {
 

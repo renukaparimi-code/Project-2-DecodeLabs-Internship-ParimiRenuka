@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 import axios from "axios";
 
-import Navbar from "../components/Navbar";
+import Navbar from "../components/navbar";
 
 import "../styles/Admin.css";
 
@@ -26,7 +26,7 @@ function Admin() {
   const fetchComponents = () => {
 
     axios
-      .get("http://localhost:5000/components")
+      .get("http://https://project-2-decodelabs-internship-y6ue.onrender.com/components")
 
       .then((res) => {
 
@@ -78,7 +78,7 @@ function Admin() {
     try {
 
       await axios.post(
-        "http://localhost:5000/components",
+        "https://project-2-decodelabs-internship-y6ue.onrender.com/components",
         newComponent
       );
 
@@ -119,7 +119,7 @@ function Admin() {
     try {
 
       await axios.delete(
-        `http://localhost:5000/components/${id}`
+        `https://project-2-decodelabs-internship-y6ue.onrender.com/components/${id}`
       );
 
 
